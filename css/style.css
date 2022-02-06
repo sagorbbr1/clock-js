@@ -23,6 +23,7 @@ h1 {
   color: rgb(49, 51, 30);
   text-transform: uppercase;
   font-style: italic;
+  padding: 0 10px;
 }
 
 .clock {
