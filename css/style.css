@@ -20,6 +20,11 @@ html {
   vertical-align: middle; */
 }
 
+h1 {
+  color: rgb(49, 51, 30);
+  text-transform: uppercase;
+  font-style: italic;
+}
 .clock {
   height: 17rem;
   width: 17rem;
